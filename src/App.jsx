@@ -1,6 +1,6 @@
 import { useRef } from 'react'
 import { Button, Container } from 'react-bootstrap'
-import BuscaCep from './componentes/BuscaCep'
+import BuscaCep from './components/BuscaCep'
 
 function App() {
 
